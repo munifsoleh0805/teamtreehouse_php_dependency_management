@@ -1,0 +1,9 @@
+
+// This is sample configuration of API Gmail server, rename This file to config_
+$email = 'username@gmail.com';
+$clientId = 'RANDOMCHAR..........apps.googleusercontent.com';
+$clientSecret = 'RANDOMCHAR...FyPrBDQq';
+
+//Obtained by configuring and running get_oauth_token.php
+//after setting up an app in Google Developer Console.
+$refreshToken = 'RANDOMCHAR.....';
